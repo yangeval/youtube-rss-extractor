@@ -203,7 +203,7 @@
 
             await navigator.clipboard.writeText(targetRssUrl);
             console.log(`${LOG_PREFIX} 복사 성공:`, targetRssUrl);
-            showToast('RSS 주소가 클립보드에 복사되었습니다!');
+            showToast('RSS 주소를 클립보드에 복사했습니다!');
         } catch (err) {
             console.error(`${LOG_PREFIX} 복사 실패:`, err);
             showToast('클립보드 복사에 실패했습니다.', true);
