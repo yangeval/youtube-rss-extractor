@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "YouTube RSS Copy",
+  "name": "YouTube RSS Extractor",
   "version": "1.1",
   "description": "아이콘 클릭 한 번으로 유튜브 채널의 RSS 주소를 복사합니다.",
   "permissions": [
